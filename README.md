@@ -39,7 +39,7 @@ A TypeScript-based mobile application to manage users (add, update, delete, view
    ```bash
    git clone https://github.com/username/repo-name.git
 
-    cd repo-name
+   cd repo-name
    npm install
 
    cd backend
